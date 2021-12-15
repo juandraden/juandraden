@@ -1,6 +1,6 @@
 Olá,
 
-Eu sou a Juliana Andrade e atualmente trabalho com back-end.
+Eu sou a Juliana Andrade e atualmente trabalho com back-end.  <img alt="Ju-gatinho" height="45" width="50" src="https://user-images.githubusercontent.com/89748103/146243626-36e3b6ea-4c6f-4842-bb24-f2bc10cab7d0.gif">
 ## 
 <div align="center">
   <a href="https://github.com/juandraden">
