@@ -1,6 +1,7 @@
 Olá,
- ## Eu sou a Juliana Andrade e atualmente trabalho com back-end.
 
+Eu sou a Juliana Andrade e atualmente trabalho com back-end.
+## 
 <div align="center">
   <a href="https://github.com/juandraden">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juandraden&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true"/>
