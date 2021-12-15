@@ -1,5 +1,5 @@
-## Olá,
-  Eu sou a Juliana Andrade e atualmente trabalho com back-end.
+Olá,
+ ## Eu sou a Juliana Andrade e atualmente trabalho com back-end.
 
 <div align="center">
   <a href="https://github.com/juandraden">
