@@ -11,6 +11,8 @@ Eu sou a Juliana Andrade e atualmente trabalho com back-end e front-end. 💻
 <div style="display: inline_block"><br>
   <img align="center" alt="Ju-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ju-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ju-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Ju-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202112/338224_GdOuhmng.png">
 </div>
   
