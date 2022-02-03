@@ -1,6 +1,6 @@
 Olá,
 
-Eu sou a Juliana Andrade e atualmente trabalho com back-end e front-end. 💻
+Eu sou a Juliana Andrade e atualmente trabalho com front-end. 💻
 ## 
 <div align="center">
   <a href="https://github.com/juandraden">
